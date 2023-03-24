@@ -1,0 +1,79 @@
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+    /* background: #58e8ce;  */
+    font-family: 'Montserrat', sans-serif;
+ 
+}
+.num{
+    background-color: #E4F9F5;
+    padding-top: 110px;
+}
+h1{
+    font-family: 'Caveat'; 
+    font-size:90px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:  #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #66BFBF;
+}
+.num
+{
+size:10%;
+}
+.cloud1
+{
+    position: absolute;
+    right: 30%;
+    top: 49px;
+}
+
+.cloud2{
+position: absolute;
+left:20%;
+top:38%;
+}
+
+.im1{
+    width: 10%;
+}
+
+.profile{
+    text-decoration: underline;
+}
+
+.bottom-container{
+    color: #11999E;
+}
+ 
+.skill-row{
+   width:50%;
+   margin: 80px auto 80px auto;
+
+}
+
+/* .im2{
+    float: right;
+}
+
+.enquire{
+    float: left;
+} */
+
+p:hover{
+    color: chocolate;
+}
+
+
+
+
+
+
+
+
+
